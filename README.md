@@ -49,8 +49,9 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development Lifecycle Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/26UCZJP3MJS4)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NATBMLX8SNPX)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JTX4VLFHNV3F)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computer Communications Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/J4WGU5JFCNSP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) 
+Academic Skills for University Success Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R3BXXLTXWR8L)
