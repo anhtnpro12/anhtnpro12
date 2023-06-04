@@ -36,6 +36,8 @@
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
