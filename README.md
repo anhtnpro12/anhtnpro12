@@ -27,7 +27,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 <p align="center">  
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>      
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>   
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
@@ -37,7 +38,7 @@
   <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>  
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
